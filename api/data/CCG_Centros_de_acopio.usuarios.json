@@ -1,0 +1,188 @@
+[{
+  "_id": "U001",
+  "nombre_usuario": "mauro_eco",
+  "email": "mauricio.b@email.com",
+  "hash_contrasena": "$2b$12$E9e.S8f.z2k3LpQ7rGtW9uJ4i5H6k7L8m",
+  "fecha_registro": "2024-05-10T10:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "PR001",
+      "coleccion": "puntos_reciclaje"
+    }
+  ]
+},
+{
+  "_id": "U002",
+  "nombre_usuario": "cris_guerrero",
+  "email": "cristina.g@email.com",
+  "hash_contrasena": "$2b$12$F0f.T9g.a314MpR8sHtX0vK5j61718M9n",
+  "fecha_registro": "2024-05-11T11:30:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "MO002",
+      "coleccion": "mercados_organicos"
+    }
+  ]
+},
+{
+  "_id": "U003",
+  "nombre_usuario": "dany_verde",
+  "email": "daniela.m@email.com",
+  "hash_contrasena": "$2b$12$G1g.U0h.b4m5NqS9tIuY1wL6k7J8m9N0o",
+  "fecha_registro": "2024-05-12T15:20:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "CA003",
+      "coleccion": "centros_acopio"
+    }
+  ]
+},
+{
+  "_id": "U004",
+  "nombre_usuario": "frida_sostenible",
+  "email": "frida.r@email.com",
+  "hash_contrasena": "$2b$12$H2h.V1i.c5n60rT0uJvZ2xM718K9n001p",
+  "fecha_registro": "2024-05-13T09:05:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "RE004",
+      "coleccion": "puntos_recarga_electricos"
+    },
+    {
+      "id_punto": "MO005",
+      "coleccion": "mercados_organicos"
+    }
+  ]
+},
+{
+  "_id": "U005",
+  "nombre_usuario": "reciclador_pro",
+  "email": "juan.p@email.com",
+  "hash_contrasena": "$2b$12$I3i.W2j.d607PsU1vKwA3yN8m9L001P2q",
+  "fecha_registro": "2024-05-14T18:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "CA006",
+      "coleccion": "centros_acopio"
+    }
+  ]
+},
+{
+  "_id": "U006",
+  "nombre_usuario": "ana_organica",
+  "email": "ana.m@email.com",
+  "hash_contrasena": "$2b$12$J4j.X3k.e7p8QtV2wLxB4z09n0M1p2Q3r",
+  "fecha_registro": "2024-05-15T12:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "MO005",
+      "coleccion": "mercados_organicos"
+    }
+  ]
+},
+{
+  "_id": "U007",
+  "nombre_usuario": "carlos_ev",
+  "email": "carlos.r@email.com",
+  "hash_contrasena": "$2b$12$K5k.Y41.f8q9RuW3xMyC5aP001N2q3R4s",
+  "fecha_registro": "2024-05-16T14:10:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "RE007",
+      "coleccion": "puntos_recarga_electricos"
+    }
+  ]
+},
+{
+  "_id": "U008",
+  "nombre_usuario": "laura_verde",
+  "email": "laura.g@email.com",
+  "hash_contrasena": "$2b$12$L61.Z5m.g9r0SvX4yNzD6bQ1p203r4S5t",
+  "fecha_registro": "2024-05-17T16:45:00Z",
+  "puntos_favoritos": []
+},
+{
+  "_id": "U009",
+  "nombre_usuario": "pedro_ambiental",
+  "email": "pedro.l@email.com",
+  "hash_contrasena": "$2b$12$M7m.A6n.h0s1TwY5z0aE7cR2q3P4s5T6u",
+  "fecha_registro": "2024-05-18T11:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "PR008",
+      "coleccion": "puntos_reciclaje"
+    }
+  ]
+},
+{
+  "_id": "U010",
+  "nombre_usuario": "sofia_eco_friendly",
+  "email": "sofia.n@email.com",
+  "hash_contrasena": "$2b$12$N8n.B7o.i1t2UxZ6aPbF8dS3r4Q5t6U7v",
+  "fecha_registro": "2024-05-19T13:00:00Z",
+  "puntos_favoritos": []
+},
+{
+  "_id": "U011",
+  "nombre_usuario": "jorge_recicla",
+  "email": "jorge.a@email.com",
+  "hash_contrasena": "$2b$12$090.C8p.j2u3VyA7bQcG9eT4s5R6u7V8w",
+  "fecha_registro": "2024-05-20T20:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "CA009",
+      "coleccion": "centros_acopio"
+    },
+    {
+      "id_punto": "PR001",
+      "coleccion": "puntos_reciclaje"
+    }
+  ]
+},
+{
+  "_id": "U012",
+  "nombre_usuario": "maria_composta",
+  "email": "maria.f@email.com",
+  "hash_contrasena": "$2b$12$P0p.D9q.k3v4WzB8cRdH0fU5t6S7v8W9x",
+  "fecha_registro": "2024-05-21T08:30:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "MO005",
+      "coleccion": "mercados_organicos"
+    }
+  ]
+},
+{
+  "_id": "U013",
+  "nombre_usuario": "luis_renovable",
+  "email": "luis.v@email.com",
+  "hash_contrasena": "$2b$12$Q1q.E0r.14w5XyC9dSeI1gV6u7T8w9X0y",
+  "fecha_registro": "2024-05-22T17:15:00Z",
+  "puntos_favoritos": []
+},
+{
+  "_id": "U014",
+  "nombre_usuario": "elena_natural",
+  "email": "elena.p@email.com",
+  "hash_contrasena": "$2b$12$R2r.F1s.m5x6YzD0eTfJ2hW7v8U9x0Y1z",
+  "fecha_registro": "2024-05-23T19:00:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "MO014",
+      "coleccion": "mercados_organicos"
+    }
+  ]
+},
+{
+  "_id": "U015",
+  "nombre_usuario": "david_planeta",
+  "email": "david.c@email.com",
+  "hash_contrasena": "$2b$12$S3s.G2t.n6y7ZyE1fUgK3iX8w9V0y1Z2a",
+  "fecha_registro": "2024-05-24T10:25:00Z",
+  "puntos_favoritos": [
+    {
+      "id_punto": "RE013",
+      "coleccion": "puntos_recarga_electricos"
+    }
+  ]
+}]

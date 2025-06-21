@@ -1,0 +1,210 @@
+[{
+  "_id": "PR001",
+  "nombre": "Contenedor Parque Hundido",
+  "tipo_material": [
+    "PET",
+    "Aluminio"
+  ],
+  "direccion": "Av. Insurgentes Sur S/N, Extremadura Insurgentes, Benito Juárez, 03740 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.3639,
+    "lng": -99.1803
+  }
+},
+{
+  "_id": "PR002",
+  "nombre": "Punto Verde Coyoacán",
+  "tipo_material": [
+    "Vidrio",
+    "Cartón",
+    "Papel"
+  ],
+  "direccion": "Jardín Centenario 16, Coyoacán, 04000 Ciudad de México, CDMX",
+  "horario": "09:00-18:00",
+  "coordenadas": {
+    "lat": 19.3497,
+    "lng": -99.1629
+  }
+},
+{
+  "_id": "PR003",
+  "nombre": "Recicla-Móvil Polanco",
+  "tipo_material": [
+    "PET",
+    "Plástico Rígido"
+  ],
+  "direccion": "Av. Presidente Masaryk 29, Polanco, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+  "horario": "10:00-16:00 (Sábados)",
+  "coordenadas": {
+    "lat": 19.4326,
+    "lng": -99.1956
+  }
+},
+{
+  "_id": "PR004",
+  "nombre": "Contenedor Parque México",
+  "tipo_material": [
+    "PET",
+    "Aluminio",
+    "Vidrio"
+  ],
+  "direccion": "Av México s/n, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.4093,
+    "lng": -99.1683
+  }
+},
+{
+  "_id": "PR005",
+  "nombre": "Estación de Reciclaje La Roma",
+  "tipo_material": [
+    "Cartón",
+    "Papel"
+  ],
+  "direccion": "Orizaba 219, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+  "horario": "08:00-20:00",
+  "coordenadas": {
+    "lat": 19.4168,
+    "lng": -99.1625
+  }
+},
+{
+  "_id": "PR006",
+  "nombre": "Punto Limpio Santa Fe",
+  "tipo_material": [
+    "PET"
+  ],
+  "direccion": "Av. Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.3629,
+    "lng": -99.2736
+  }
+},
+{
+  "_id": "PR007",
+  "nombre": "Reciclaje Chapultepec",
+  "tipo_material": [
+    "Aluminio",
+    "Vidrio"
+  ],
+  "direccion": "Paseo de la Reforma, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX",
+  "horario": "09:00-17:00",
+  "coordenadas": {
+    "lat": 19.4203,
+    "lng": -99.1872
+  }
+},
+{
+  "_id": "PR008",
+  "nombre": "Contenedor Del Valle",
+  "tipo_material": [
+    "Cartón",
+    "Papel",
+    "PET"
+  ],
+  "direccion": "Amores 1234, Col del Valle Centro, Benito Juárez, 03100 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.3852,
+    "lng": -99.1685
+  }
+},
+{
+  "_id": "PR009",
+  "nombre": "Punto Verde Narvarte",
+  "tipo_material": [
+    "Vidrio"
+  ],
+  "direccion": "Diagonal San Antonio 1503, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX",
+  "horario": "10:00-17:00",
+  "coordenadas": {
+    "lat": 19.3958,
+    "lng": -99.1551
+  }
+},
+{
+  "_id": "PR010",
+  "nombre": "Recicladora San Ángel",
+  "tipo_material": [
+    "PET",
+    "Aluminio"
+  ],
+  "direccion": "Plaza San Jacinto 15, San Ángel TNT, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+  "horario": "09:00-15:00 (Domingos)",
+  "coordenadas": {
+    "lat": 19.3464,
+    "lng": -99.1901
+  }
+},
+{
+  "_id": "PR011",
+  "nombre": "Contenedor Jardín Pushkin",
+  "tipo_material": [
+    "Cartón",
+    "Papel"
+  ],
+  "direccion": "Av. Cuauhtémoc 104, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.4215,
+    "lng": -99.1578
+  }
+},
+{
+  "_id": "PR012",
+  "nombre": "Punto Limpio Anzures",
+  "tipo_material": [
+    "PET",
+    "Vidrio"
+  ],
+  "direccion": "Calle Leibniz 14, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX",
+  "horario": "09:00-19:00",
+  "coordenadas": {
+    "lat": 19.4294,
+    "lng": -99.1772
+  }
+},
+{
+  "_id": "PR013",
+  "nombre": "Eco-Punto Tlalpan",
+  "tipo_material": [
+    "Aluminio"
+  ],
+  "direccion": "Calz. de Tlalpan 409, Álamos, Benito Juárez, 03400 Ciudad de México, CDMX",
+  "horario": "11:00-16:00",
+  "coordenadas": {
+    "lat": 19.39,
+    "lng": -99.1436
+  }
+},
+{
+  "_id": "PR014",
+  "nombre": "Reciclaje en Alameda Central",
+  "tipo_material": [
+    "PET",
+    "Cartón"
+  ],
+  "direccion": "Av. Hidalgo s/n, Centro Histórico, Cuauhtémoc, 06010 Ciudad de México, CDMX",
+  "horario": "24 horas",
+  "coordenadas": {
+    "lat": 19.4354,
+    "lng": -99.1411
+  }
+},
+{
+  "_id": "PR015",
+  "nombre": "Contenedor Plaza Universidad",
+  "tipo_material": [
+    "Papel",
+    "Vidrio"
+  ],
+  "direccion": "Av. Universidad 1000, Sta Cruz Atoyac, Benito Juárez, 03310 Ciudad de México, CDMX",
+  "horario": "11:00-21:00",
+  "coordenadas": {
+    "lat": 19.3621,
+    "lng": -99.1648
+  }
+}]

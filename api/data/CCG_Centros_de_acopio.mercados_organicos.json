@@ -1,0 +1,240 @@
+[{
+  "_id": "MO001",
+  "nombre": "Mercado el 100",
+  "tipo": "Mercado de Productores",
+  "productos_destacados": [
+    "Hortalizas",
+    "Queso de cabra",
+    "Miel"
+  ],
+  "direccion": "Orizaba s/n, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX (Plaza del Lanzador)",
+  "horario": "Domingos 09:30-14:30",
+  "coordenadas": {
+    "lat": 19.4165,
+    "lng": -99.1633
+  }
+},
+{
+  "_id": "MO002",
+  "nombre": "Tianguis Alternativo de Coyoacán",
+  "tipo": "Tianguis",
+  "productos_destacados": [
+    "Cosmética natural",
+    "Superfoods",
+    "Pan artesanal"
+  ],
+  "direccion": "Miguel Ángel de Quevedo 673, San Francisco, Coyoacán, 04320 Ciudad de México, CDMX",
+  "horario": "Sábados 10:00-16:00",
+  "coordenadas": {
+    "lat": 19.3444,
+    "lng": -99.1722
+  }
+},
+{
+  "_id": "MO003",
+  "nombre": "The Green Corner",
+  "tipo": "Tienda/Restaurante",
+  "productos_destacados": [
+    "Frutas y verduras",
+    "Carne orgánica",
+    "Productos a granel"
+  ],
+  "direccion": "Homero 1730, Polanco, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+  "horario": "08:00-22:00",
+  "coordenadas": {
+    "lat": 19.437,
+    "lng": -99.201
+  }
+},
+{
+  "_id": "MO004",
+  "nombre": "Bosque de Agua",
+  "tipo": "Mercado de Productores",
+  "productos_destacados": [
+    "Hongos",
+    "Hortalizas de chinampa",
+    "Conservas"
+  ],
+  "direccion": "Av. de la Paz 57, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+  "horario": "Sábados 10:00-15:00",
+  "coordenadas": {
+    "lat": 19.3475,
+    "lng": -99.1888
+  }
+},
+{
+  "_id": "MO005",
+  "nombre": "La Miscelánea",
+  "tipo": "Tienda a granel",
+  "productos_destacados": [
+    "Semillas",
+    "Especias",
+    "Artículos de limpieza ecológicos"
+  ],
+  "direccion": "Chilpancingo 35, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX",
+  "horario": "10:00-20:00",
+  "coordenadas": {
+    "lat": 19.4075,
+    "lng": -99.1704
+  }
+},
+{
+  "_id": "MO006",
+  "nombre": "Tianguis Orgánico Chapingo",
+  "tipo": "Tianguis Universitario",
+  "productos_destacados": [
+    "Productos de la universidad",
+    "Hortalizas",
+    "Lácteos"
+  ],
+  "direccion": "Km 38.5 Carretera México-Texcoco, Chapingo, 56230 Texcoco, Méx.",
+  "horario": "Viernes 09:00-15:00",
+  "coordenadas": {
+    "lat": 19.4881,
+    "lng": -98.8837
+  }
+},
+{
+  "_id": "MO007",
+  "nombre": "Orígenes Orgánicos",
+  "tipo": "Tienda/Cafetería",
+  "productos_destacados": [
+    "Jugos prensados en frío",
+    "Ensaladas",
+    "Suplementos"
+  ],
+  "direccion": "Colima 209, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+  "horario": "08:30-21:00",
+  "coordenadas": {
+    "lat": 19.4182,
+    "lng": -99.1651
+  }
+},
+{
+  "_id": "MO008",
+  "nombre": "Mercado Alternativo de Tlalpan",
+  "tipo": "Mercado de Productores",
+  "productos_destacados": [
+    "Maiz criollo",
+    "Pulque",
+    "Amaranto"
+  ],
+  "direccion": "Explanada de la Alcaldía Tlalpan, Plaza de la Constitución 1, Tlalpan Centro I, 14000 Ciudad de México, CDMX",
+  "horario": "Domingos 10:00-16:00",
+  "coordenadas": {
+    "lat": 19.29,
+    "lng": -99.1663
+  }
+},
+{
+  "_id": "MO009",
+  "nombre": "Estado Natural",
+  "tipo": "Tienda a granel",
+  "productos_destacados": [
+    "Frutos secos",
+    "Harinas",
+    "Chocolates"
+  ],
+  "direccion": "Havre 64, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+  "horario": "10:00-20:00",
+  "coordenadas": {
+    "lat": 19.4265,
+    "lng": -99.1612
+  }
+},
+{
+  "_id": "MO010",
+  "nombre": "Huerto Roma Verde",
+  "tipo": "Huerto Urbano/Mercado",
+  "productos_destacados": [
+    "Hortalizas del huerto",
+    "Talleres",
+    "Comida preparada"
+  ],
+  "direccion": "Jalapa 234, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX",
+  "horario": "Sábados y Domingos 10:00-18:00",
+  "coordenadas": {
+    "lat": 19.4095,
+    "lng": -99.1618
+  }
+},
+{
+  "_id": "MO011",
+  "nombre": "Yolcan",
+  "tipo": "Chinampa/Entrega a domicilio",
+  "productos_destacados": [
+    "Canastas semanales de verduras",
+    "Huevo de rancho",
+    "Tortillas"
+  ],
+  "direccion": "Xochimilco (Entrega en varios puntos)",
+  "horario": "Consultar puntos de entrega",
+  "coordenadas": {
+    "lat": 19.255,
+    "lng": -99.102
+  }
+},
+{
+  "_id": "MO012",
+  "nombre": "Aires de Campo",
+  "tipo": "Marca/Tienda en línea",
+  "productos_destacados": [
+    "Pollo orgánico",
+    "Huevo",
+    "Lácteos"
+  ],
+  "direccion": "Venta en supermercados y en línea",
+  "horario": "N/A",
+  "coordenadas": {
+    "lat": 19.3907,
+    "lng": -99.1754
+  }
+},
+{
+  "_id": "MO013",
+  "nombre": "La Nature",
+  "tipo": "Tienda",
+  "productos_destacados": [
+    "Vinos orgánicos",
+    "Cuidado personal",
+    "Café"
+  ],
+  "direccion": "Gral. Benjamín Hill 99, Hipódromo Condesa, 06170 Ciudad de México, CDMX",
+  "horario": "09:00-21:00",
+  "coordenadas": {
+    "lat": 19.4055,
+    "lng": -99.1758
+  }
+},
+{
+  "_id": "MO014",
+  "nombre": "Mercado de Productores de San Miguel de Allende",
+  "tipo": "Mercado de Productores",
+  "productos_destacados": [
+    "Lavanda",
+    "Aceite de oliva",
+    "Panes"
+  ],
+  "direccion": "Ancha de San Antonio 39, Zona Centro, 37700 San Miguel de Allende, Gto.",
+  "horario": "Sábados 09:00-14:00",
+  "coordenadas": {
+    "lat": 20.91,
+    "lng": -100.748
+  }
+},
+{
+  "_id": "MO015",
+  "nombre": "Bazar Orgánico de Guadalajara",
+  "tipo": "Tianguis",
+  "productos_destacados": [
+    "Berries",
+    "Tequila orgánico",
+    "Agaveros"
+  ],
+  "direccion": "Av. México 2425, Ladrón de Guevara, 44600 Guadalajara, Jal.",
+  "horario": "Sábados 09:00-15:00",
+  "coordenadas": {
+    "lat": 20.6766,
+    "lng": -103.3745
+  }
+}]

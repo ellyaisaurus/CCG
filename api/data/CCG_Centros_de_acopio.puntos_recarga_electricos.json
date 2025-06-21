@@ -1,0 +1,212 @@
+[{
+  "_id": "RE001",
+  "operador": "CFE",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Reforma 164, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+  "costo": "Gratuito",
+  "coordenadas": {
+    "lat": 19.4284,
+    "lng": -99.1652
+  }
+},
+{
+  "_id": "RE002",
+  "operador": "Tesla Supercharger",
+  "tipo_conector": [
+    "Tesla NACS"
+  ],
+  "potencia_kw": 250,
+  "direccion": "Galerías Insurgentes, Parroquia 194, Col del Valle, Benito Juárez, 03100 Ciudad de México, CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.3703,
+    "lng": -99.1717
+  }
+},
+{
+  "_id": "RE003",
+  "operador": "Evergo",
+  "tipo_conector": [
+    "Tipo 2 (Mennekes)",
+    "CCS Combo 2"
+  ],
+  "potencia_kw": 50,
+  "direccion": "Centro Comercial Santa Fe, Av. Vasco de Quiroga 3800, Santa Fe, CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.362,
+    "lng": -99.2745
+  }
+},
+{
+  "_id": "RE004",
+  "operador": "BMW Charging (ChargeNow)",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Palacio de Hierro Polanco, Av. Moliere 222, Polanco, 11550 Ciudad de México, CDMX",
+  "costo": "Varía",
+  "coordenadas": {
+    "lat": 19.435,
+    "lng": -99.2041
+  }
+},
+{
+  "_id": "RE005",
+  "operador": "Porsche Destination Charging",
+  "tipo_conector": [
+    "Tipo 2 (Mennekes)"
+  ],
+  "potencia_kw": 11,
+  "direccion": "Hotel St. Regis, Paseo de la Reforma 439, Cuauhtémoc, 06500 Ciudad de México, CDMX",
+  "costo": "Exclusivo para huéspedes/clientes",
+  "coordenadas": {
+    "lat": 19.4277,
+    "lng": -99.1718
+  }
+},
+{
+  "_id": "RE006",
+  "operador": "CFE",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Aeropuerto Internacional de la CDMX, Terminal 1",
+  "costo": "Gratuito",
+  "coordenadas": {
+    "lat": 19.4363,
+    "lng": -99.0721
+  }
+},
+{
+  "_id": "RE007",
+  "operador": "Evergo",
+  "tipo_conector": [
+    "CHAdeMO",
+    "CCS Combo 2"
+  ],
+  "potencia_kw": 50,
+  "direccion": "Walmart Universidad, Av. Universidad 936, Sta Cruz Atoyac, Benito Juárez, 03310 CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.3642,
+    "lng": -99.1654
+  }
+},
+{
+  "_id": "RE008",
+  "operador": "Tesla Supercharger",
+  "tipo_conector": [
+    "Tesla NACS"
+  ],
+  "potencia_kw": 150,
+  "direccion": "Patio Santa Fe, Av. Vasco de Quiroga 4299, Santa Fe, Cuajimalpa, 05348 CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.3668,
+    "lng": -99.2796
+  }
+},
+{
+  "_id": "RE009",
+  "operador": "Nissan",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Agencia Nissan Insurgentes, Av. Insurgentes Sur 1228, Tlacoquemecatl del Valle, 03100 CDMX",
+  "costo": "Exclusivo para clientes",
+  "coordenadas": {
+    "lat": 19.378,
+    "lng": -99.172
+  }
+},
+{
+  "_id": "RE010",
+  "operador": "CFE",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Parque La Mexicana, Av. Luis Barragan 505, Santa Fe, Cuajimalpa, 05348 CDMX",
+  "costo": "Gratuito",
+  "coordenadas": {
+    "lat": 19.3735,
+    "lng": -99.2811
+  }
+},
+{
+  "_id": "RE011",
+  "operador": "Evergo",
+  "tipo_conector": [
+    "Tipo 2 (Mennekes)"
+  ],
+  "potencia_kw": 22,
+  "direccion": "Sam's Club Polanco, Ejército Nacional Mexicano 769, Granada, 11520 CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.4395,
+    "lng": -99.1965
+  }
+},
+{
+  "_id": "RE012",
+  "operador": "Audi",
+  "tipo_conector": [
+    "Tipo 2 (Mennekes)"
+  ],
+  "potencia_kw": 11,
+  "direccion": "Audi Center Masaryk, Av. Pdte. Masaryk 123, Polanco, 11560 CDMX",
+  "costo": "Exclusivo para clientes",
+  "coordenadas": {
+    "lat": 19.4323,
+    "lng": -99.1868
+  }
+},
+{
+  "_id": "RE013",
+  "operador": "Tesla Supercharger",
+  "tipo_conector": [
+    "Tesla NACS"
+  ],
+  "potencia_kw": 250,
+  "direccion": "Plaza Satélite, Cto. Centro Comercial 2251, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.5085,
+    "lng": -99.2361
+  }
+},
+{
+  "_id": "RE014",
+  "operador": "CFE",
+  "tipo_conector": [
+    "Tipo 1 (J1772)"
+  ],
+  "potencia_kw": 7.2,
+  "direccion": "Estacionamiento EcoParq, Amsterdam, Hipódromo, Cuauhtémoc, 06100 CDMX",
+  "costo": "Gratuito",
+  "coordenadas": {
+    "lat": 19.41,
+    "lng": -99.17
+  }
+},
+{
+  "_id": "RE015",
+  "operador": "Evergo",
+  "tipo_conector": [
+    "CCS Combo 2"
+  ],
+  "potencia_kw": 100,
+  "direccion": "La Comer Insurgentes, Av. Insurgentes Sur 1524, Crédito Constructor, 03940 CDMX",
+  "costo": "Por kWh",
+  "coordenadas": {
+    "lat": 19.3567,
+    "lng": -99.1795
+  }
+}]

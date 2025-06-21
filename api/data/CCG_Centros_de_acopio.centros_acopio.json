@@ -1,0 +1,220 @@
+[{
+  "_id": "CA001",
+  "nombre": "Reciclatrón CDMX",
+  "tipo_residuo": [
+    "Electrónicos",
+    "Pilas",
+    "Lámparas Fluorescentes"
+  ],
+  "entidad": "Gobierno de la CDMX",
+  "direccion": "Ubicación itinerante, consultar calendario oficial",
+  "sitio_web": "https://www.sedema.cdmx.gob.mx/programas/programa/reciclatron",
+  "coordenadas": {
+    "lat": 19.4326,
+    "lng": -99.1332
+  }
+},
+{
+  "_id": "CA002",
+  "nombre": "BioBox",
+  "tipo_residuo": [
+    "PET",
+    "Aluminio"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Varias ubicaciones en supermercados",
+  "sitio_web": "https://www.biobox.com.mx/",
+  "coordenadas": {
+    "lat": 19.4199,
+    "lng": -99.1738
+  }
+},
+{
+  "_id": "CA003",
+  "nombre": "EcoLana",
+  "tipo_residuo": [
+    "PET",
+    "HDPE",
+    "Cartón",
+    "Vidrio"
+  ],
+  "entidad": "Asociación Civil",
+  "direccion": "Directorio nacional en su página web",
+  "sitio_web": "https://ecolana.com.mx/",
+  "coordenadas": {
+    "lat": 19.414,
+    "lng": -99.162
+  }
+},
+{
+  "_id": "CA004",
+  "nombre": "Centro de Acopio 'El Verde'",
+  "tipo_residuo": [
+    "Aceite de Cocina Usado",
+    "Tetra Pak"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Calle Falsa 123, Colonia Santa Martha Acatitla, Iztapalapa, 09000 Ciudad de México, CDMX",
+  "sitio_web": "https://elverde.com",
+  "coordenadas": {
+    "lat": 19.3551,
+    "lng": -99.0622
+  }
+},
+{
+  "_id": "CA005",
+  "nombre": "Ponte Pilas",
+  "tipo_residuo": [
+    "Pilas Alcalinas"
+  ],
+  "entidad": "Gobierno de la CDMX",
+  "direccion": "Más de 400 columnas en toda la ciudad",
+  "sitio_web": "https://www.sedema.cdmx.gob.mx/programas/programa/ponte-pilas-con-tu-ciudad",
+  "coordenadas": {
+    "lat": 19.4,
+    "lng": -99.15
+  }
+},
+{
+  "_id": "CA006",
+  "nombre": "Recupera Muebles",
+  "tipo_residuo": [
+    "Muebles",
+    "Colchones"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Servicio de recolección a domicilio",
+  "sitio_web": "https://recuperamuebles.mx",
+  "coordenadas": {
+    "lat": 19.451,
+    "lng": -99.125
+  }
+},
+{
+  "_id": "CA007",
+  "nombre": "Recicla Unicel",
+  "tipo_residuo": [
+    "Unicel (Poliestireno Expandido)"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Calle de la Tecnología 5, Parque Industrial, Naucalpan, Edo. de México",
+  "sitio_web": "https://www.reciclaunicel.com",
+  "coordenadas": {
+    "lat": 19.475,
+    "lng": -99.25
+  }
+},
+{
+  "_id": "CA008",
+  "nombre": "Verde ANPer",
+  "tipo_residuo": [
+    "Envases de agroquímicos"
+  ],
+  "entidad": "Asociación Civil",
+  "direccion": "Red nacional de centros",
+  "sitio_web": "https://www.verdeanper.org",
+  "coordenadas": {
+    "lat": 20.5223,
+    "lng": -99.892
+  }
+},
+{
+  "_id": "CA009",
+  "nombre": "Programa de Acopio de Llantas",
+  "tipo_residuo": [
+    "Llantas usadas"
+  ],
+  "entidad": "Gobierno de la CDMX",
+  "direccion": "Eventos periódicos en distintas alcaldías",
+  "sitio_web": "https://www.cdmx.gob.mx",
+  "coordenadas": {
+    "lat": 19.3,
+    "lng": -99.1
+  }
+},
+{
+  "_id": "CA010",
+  "nombre": "Re-ciclo",
+  "tipo_residuo": [
+    "Electrónicos",
+    "Línea Blanca"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Bodega 3, Central de Abastos, Iztapalapa, CDMX",
+  "sitio_web": "https://re-ciclo.com",
+  "coordenadas": {
+    "lat": 19.3731,
+    "lng": -99.0911
+  }
+},
+{
+  "_id": "CA011",
+  "nombre": "Acopio de Medicamentos Caducos",
+  "tipo_residuo": [
+    "Medicamentos"
+  ],
+  "entidad": "SINGREM",
+  "direccion": "Contenedores en farmacias participantes",
+  "sitio_web": "https://www.singrem.org.mx",
+  "coordenadas": {
+    "lat": 19.391,
+    "lng": -99.172
+  }
+},
+{
+  "_id": "CA012",
+  "nombre": "Recolección de cascajo (Tlalpan)",
+  "tipo_residuo": [
+    "Residuos de construcción"
+  ],
+  "entidad": "Alcaldía Tlalpan",
+  "direccion": "Consultar en la alcaldía",
+  "sitio_web": "https://www.tlalpan.cdmx.gob.mx",
+  "coordenadas": {
+    "lat": 19.2889,
+    "lng": -99.165
+  }
+},
+{
+  "_id": "CA013",
+  "nombre": "Onilikan",
+  "tipo_residuo": [
+    "Botellas de vidrio de licores"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Servicio de recolección en restaurantes",
+  "sitio_web": "https://onilikan.com",
+  "coordenadas": {
+    "lat": 19.432,
+    "lng": -99.19
+  }
+},
+{
+  "_id": "CA014",
+  "nombre": "H&M Garment Collecting",
+  "tipo_residuo": [
+    "Ropa y textiles"
+  ],
+  "entidad": "H&M",
+  "direccion": "En todas las tiendas H&M del país",
+  "sitio_web": "https://www2.hm.com/es_mx/mujeres/compra-por-concepto/16r-garment-collecting.html",
+  "coordenadas": {
+    "lat": 19.4343,
+    "lng": -99.1386
+  }
+},
+{
+  "_id": "CA015",
+  "nombre": "TerraCycle México",
+  "tipo_residuo": [
+    "Colillas de cigarro",
+    "Empaques de botanas"
+  ],
+  "entidad": "Iniciativa Privada",
+  "direccion": "Programas de envío por paquetería",
+  "sitio_web": "https://www.terracycle.com/es-MX",
+  "coordenadas": {
+    "lat": 19.4005,
+    "lng": -99.1568
+  }
+}]
